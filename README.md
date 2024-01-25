@@ -1,9 +1,10 @@
+![Victor Kipngeno ](https://github.com/Vick8715/VICTOR-KIPNGENO/assets/157721948/6ac04182-27f8-417a-b29b-6709a374b0b7)
 - 👋 Hi, I’m VICTOR KIPNGENO
-- 👀 I’m interested in Frontend Website Development
-- 🌱 I’m currently learning BA KISWAHILI
+- 👀 I’m interested in Frontend Website Designing.Iam develop and design Websites.
+- 🌱 I’m currently studying at MOI UNIVERITY  School Of Arts and Social Sciences.
 - 💞️ I’m looking to collaborate on Web designing 
-- 📫 How to reach me 0111451075
-- 😄 Pronouns:coding in my blood
+- 📫 How to reach me kipngenoruto453@gmail.com
+- 😄 Pronouns:Programming in my blood
 - ⚡ Fun fact:Travelling
 
 <!---
