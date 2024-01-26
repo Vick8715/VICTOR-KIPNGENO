@@ -2,10 +2,10 @@
 - 👋 Hi, I’m VICTOR KIPNGENO
 - 👀 I’m interested in Frontend Website Designing.Iam develop and design Websites.
 - 🌱 I’m currently studying at MOI UNIVERITY  School Of Arts and Social Sciences.
-- 💞️ I’m looking to collaborate on Web designing 
+- 💞️ I’m looking to collaborate and partnership on Web designing. 
 - 📫 How to reach me kipngenoruto453@gmail.com
 - 😄 Pronouns:Programming in my blood
-- ⚡ Fun fact:Travelling
+- ⚡ Fun fact: Reading Novels and travelling.
 
 <!---
 Vick8715/Vick8715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
