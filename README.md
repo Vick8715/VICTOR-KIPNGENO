@@ -1,13 +1,4 @@
 ![Victor Kipngeno ](https://github.com/Vick8715/VICTOR-KIPNGENO/assets/157721948/6ac04182-27f8-417a-b29b-6709a374b0b7)
-- 👋 Hi, I’m VICTOR KIPNGENO
-- 👀 I’m interested in Frontend Website Designing.Iam develop and design Websites.
-- 🌱 I’m currently studying at MOI UNIVERITY  School Of Arts and Social Sciences.
-- 💞️ I’m looking to collaborate and partnership on Web designing. 
-- 📫 How to reach me kipngenoruto453@gmail.com
-- 😄 Pronouns:Programming in my blood
-- ⚡ Fun fact: Reading Novels and travelling.
-
-<!---
-Vick8715/Vick8715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Victor Kipngeno currently a continuing student at MOI UNIVERSITY School of Arts and Social Sciences.I have requisite skills on Frontend Web Designing and Development.In the past few years i have come up with some of the projects that i have compiled them in my portfolio.Iam now in for Frameworks. I can make perfect websites for business premises,School Management System ,Industrial Management and also Personal portfolios.
+Reach me at kipngenoruto453@gmail.com
+LinkedIn:Victor Kipngeno
